@@ -38,7 +38,7 @@ References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visua
  <a href="scaleCircle.jpg">scaleCircle</a>  <br>
   Week 10. Fractals: <br>
  <a href="concentricShape.jpg">concentricShape</a> | <a href="simpleFractal.jpg">simpleFractal</a> | 
- <a href="recursiveCircles.jpg">rcursiveCircles</a> | <a href="recursiveSquares.jpg">recursiveSquares</a> | <a href="rightTriangle.jpg">rightTriangle</a> | <a href="sierpinskiGasket.jpg">sier pinskiGasket</a> | <a href="sierpinskiCarpet.jpg">sierpinskiCarpet</a> <br>
+ <a href="recursiveCircles.jpg">rcursiveCircles</a> | <a href="recursiveSquares.jpg">recursiveSquares</a> | <a href="rightTriangle.jpg">rightTriangle</a> | <a href="sierpinskiGasket.jpg">sierpinskiGasket</a> | <a href="sierpinskiCarpet.jpg">sierpinskiCarpet</a> <br>
   Week 11. Perspective: <br>
  <a href="perspectiveBen.jpg">perspectiveBen</a><br>
  Week 12. 3D: <br>
