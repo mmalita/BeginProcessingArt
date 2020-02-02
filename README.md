@@ -6,11 +6,16 @@ References: Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual D
 <a href="blueRect.jpg">blueRect</a>  | 
  <a href="flagRomania.jpg">flagRomania</a>  | <a href="flagColombia.jpg">flagColombia</a>  | 
  <a href="linesHorizontalScale.jpg">linesHorizontalScale</a>  | 
- <a href="jail.jpg">jail</a> | <a href="redCrossScale.jpg">redCrossScale</a>  |  <a href="squareCenterScale.jpg">squareCenterScale</a> 
+ <a href="jail.jpg">jail</a> | <a href="redCrossScale.jpg">redCrossScale</a>  |  <a href="squareCenterScale.jpg">squareCenterScale</a>  <br>
   Week 2. Random. Shapes: <br>
- <a href="flagRomania.jpg">snowFlake</a>  |  <a href="flagRomania.jpg">target</a>  |  <a href="flagRomania.jpg">Albers |  <a href="flagRomania.jpg">randColor2</a>  |  <a href="flagRomania.jpg">overlap</a>  | <a href="flagRomania.jpg">triangleCircle</a>  | rhombus</a>  | border</a>  |mondrian</a>  | <a href="flagRomania.jpg">ellipse</a>  <br>
+ <a href="snowFlake.jpg">snowFlake</a>  |  <a href="target.jpg">target</a>  |  <a href="Albers.jpg">Albers |  
+ <a href="randColor2.jpg">randColor2</a>  |  <a href="overlap.jpg">overlap</a>  | <a href="traingleCircle.jpg">triangleCircle</a>  
+ | <a href="rhombus.jpg>e.jpg">rhombus</a>  | <a href="border.jpg">border</a>  |
+ <a href="mondrian.jpg">mondrian</a>  | <a href="ellipse.jpg">ellipse</a>  <br>
   Week 3. Loops: <br>
- <a href="flagRomania.jpg">manyLines</a> |  <a href="flagRomania.jpg">concentric</a> |  <a href="flagRomania.jpg">agnes</a> |  <a href="flagRomania.jpg">agnesMartin</a>|  <a href="flagRomania.jpg">circleFill</a> |  <a href="flagRomania.jpg">grid</a> |  <a href="flagRomania.jpg">gridIllusion</a> |  <a href="flagRomania.jpg">chessMM</a> |  <a href="flagRomania.jpg">wall</a> <br>
+ <a href="manyLines.jpg">manyLines</a> |  <a href="concentric.jpg">concentric</a> |  <a href="agnes.jpg">agnes</a> |  
+ <a href="agnesMartin.jpg">agnesMartin</a>|  <a href="circleFill.jpg">circleFill</a> |  <a href="grid.jpg">grid</a> |  
+ <a href="girdIllusion.jpg">gridIllusion</a> |  <a href="chessMM.jpg">chessMM</a> |  <a href="wall.jpg">wall</a> <br>
   Week 4. GoldenRatio:  <br>
 goldenRatioDrawing <br>
   Week 5. Lettering: <br>
