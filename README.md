@@ -1,13 +1,17 @@
 <h3>Introduction in <a href="https://processing.org">Processing</a> with Art Examples</h3>
 References: Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists" <br>
-<h4>Authors: Mihaela Malita and Ethel Shuster - 2020 </h4>>
+<h4>Authors: <a href="https://ypologist.com/mmalita17/HOMEPAGE/culProcessing/index.html">Mihaela Malita</a> and Ethel Shuster - 2020 </h4>
  Week 1. Start Processing: <br>
-<a href="page1_1.jpg">page1_1</a> | page1-2 | cross | blueRect | flagRomania | flagColombia | linesHorizontalScale | jail | redCrossScale | squareCenterScale  
+<a href="page1_1.jpg">page1_1</a> | <a href="page1_2.jpg">page1-2</a>  | <a href="cross.jpg">cross</a>  | 
+<a href="blueRect.jpg">blueRect</a>  | 
+ <a href="flagRomania.jpg">flagRomania</a>  | <a href="flagColombia.jpg">flagColombia</a>  | 
+ <a href="linesHorizontalScale.jpg">linesHorizontalScale</a>  | 
+ <a href="jail.jpg">jail</a> | <a href="redCrossScale.jpg">redCrossScale</a>  |  <a href="squareCenterScale.jpg">squareCenterScale</a> 
   Week 2. Random. Shapes: <br>
-snowFlake | target | Albers | randColor2 | overlap |triangleCircle | rhombus | border |mondrian |ellipse <br>
+ <a href="flagRomania.jpg">snowFlake</a>  |  <a href="flagRomania.jpg">target</a>  |  <a href="flagRomania.jpg">Albers |  <a href="flagRomania.jpg">randColor2</a>  |  <a href="flagRomania.jpg">overlap</a>  | <a href="flagRomania.jpg">triangleCircle</a>  | rhombus</a>  | border</a>  |mondrian</a>  | <a href="flagRomania.jpg">ellipse</a>  <br>
   Week 3. Loops: <br>
-manyLines | concentric | agnes | agnesMartin | circleFill | grid | gridIllusion | chessMM | wall <br>
-  Week 4. GoldenRatio: <br>
+ <a href="flagRomania.jpg">manyLines</a> |  <a href="flagRomania.jpg">concentric</a> |  <a href="flagRomania.jpg">agnes</a> |  <a href="flagRomania.jpg">agnesMartin</a>|  <a href="flagRomania.jpg">circleFill</a> |  <a href="flagRomania.jpg">grid</a> |  <a href="flagRomania.jpg">gridIllusion</a> |  <a href="flagRomania.jpg">chessMM</a> |  <a href="flagRomania.jpg">wall</a> <br>
+  Week 4. GoldenRatio:  <br>
 goldenRatioDrawing <br>
   Week 5. Lettering: <br>
 lettering | motto0 | tableDigit | myname  <br>
