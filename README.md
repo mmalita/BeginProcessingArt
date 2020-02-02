@@ -15,19 +15,19 @@ References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visua
   Week 3. Loops: <br>
  <a href="manyLines.jpg">manyLines</a> |  <a href="concentric.jpg">concentric</a> |  <a href="agnes.jpg">agnes</a> |  
  <a href="agnesMartin.jpg">agnesMartin</a>|  <a href="circleFill.jpg">circleFill</a> |  <a href="grid.jpg">grid</a> |  
- <a href="girdIllusion.jpg">gridIllusion</a> |  <a href="chessMM.jpg">chessMM</a> |  <a href="wall.jpg">wall</a> <br>
+ <a href="gridIllusion.jpg">gridIllusion</a> |  <a href="chessMM.jpg">chessMM</a> |  <a href="wall.jpg">wall</a> <br>
   Week 4. GoldenRatio:  <br>
-<a href="girdIllusion.jpg">goldenRatioDrawing <br>
+ <a href="goldenRatioDrawing.jpg">goldenRatioDrawing</a> <br>
   Week 5. Lettering: <br>
-<a href="girdIllusion.jpg">lettering</a>  | <a href="girdIllusion.jpg">motto0 </a>  | <a href="girdIllusion.jpg">tableDigit</a>  | 
+<a href="lettering.jpg">lettering</a>  | <a href="motto0.jpg">motto0</a>  | <a href="tableDigit.jpg">tableDigit</a>  | 
  <a href="myname.jpg">myname</a> <br> 
   Week 6. Images: <br>
-  <a href="girdIllusion.jpg">idImage</a> | <a href="girdIllusion.jpg">cropImage | <a href="girdIllusion.jpg">colorPumpkin | 
- <a href="girdIllusion.jpg">adaPop | <a href="girdIllusion.jpg">transparent | <a href="girdIllusion.jpg">pointillism2 <br>
+ <a href="gridImage.jpg">gridImage</a> | <a href="cropImage.jpg">cropImage</a> | <a href="colorPumpkin.jpg">colorPumpkin</a> | 
+ <a href="adaPop.jpg">adaPop</a>| <a href="transparent.jpg">transparent</a> | <a href="pointillism2.jpg">pointillism2</a> <br>
   Week 7. Spirals. Polygons. Trigonometry: <br>
-<a href="girdIllusion.jpg">polyReg | <a href="girdIllusion.jpg">flower | <a href="girdIllusion.jpg">star | 
- <a href="girdIllusion.jpg">spiral | <a href="girdIllusion.jpg">waves2 | <a href="girdIllusion.jpg">opLines | 
- <a href="girdIllusion.jpg">circleVasarelyBlackWhite <br>
+ <a href="polyReg.jpg">polyReg</a> | <a href="flower.jpg">flower</a> | <a href="star.jpg">star</a> | 
+ <a href="girdIllusion.jpg">spiral</a> | <a href="waves.jpg">waves2</a> | <a href="opLines.jpg">opLines</a> | 
+  <a href="circleVasarelyBlackWhite.jpg">circleVasarelyBlackWhite</a> <br>
   Week 8. Moving things. Mouse <br>
 <a href="girdIllusion.jpg">raysMove | <a href="girdIllusion.jpg">agnesMove | <a href="girdIllusion.jpg">spots | 
  <a href="girdIllusion.jpg">scanCircleRad | <a href="girdIllusion.jpg">mondrianMovie | <br>
