@@ -36,11 +36,12 @@ References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visua
  <a href="contestSquares.jpg">contestSquares</a> | <a href="Rotate.jpg">Rotate</a> | 
  <a href="scaleCircle.jpg">scaleCircle</a>  <br>
   Week 10. Fractals: <br>
-<a href="girdIllusion.jpg">concentricShape | <a href="girdIllusion.jpg">simpleFractal | <a href="girdIllusion.jpg">recursiveCircles | <a href="girdIllusion.jpg">recursiveSquares | <a href="girdIllusion.jpg">rightTriangle | <a href="girdIllusion.jpg">sierpinskiGasket <a href="girdIllusion.jpg">| <a href="girdIllusion.jpg">sierpinskiCarpet <br>
+ <a href="concentricShape.jpg">concentricShape</a> | <a href="simpleFractal.jpg">simpleFractal</a> | 
+ <a href="recursiveCircles.jpg">rcursiveCircles</a> | <a href="recursiveSquares.jpg">recursiveSquares</a> | <a href="rightTriangle.jpg">rightTriangle</a> | <a href="sierpinskiGasket.jpg">sier pinskiGasket</a> | <a href="sierpinskiCarpet.jpg">sierpinskiCarpet</a> <br>
   Week 11. Perspective: <br>
-<a href="girdIllusion.jpg">perspectiveBen <br>
+ <a href="perspectiveBen.jpg">perspectiveBen</a><br>
  Week 12. 3D: <br>
-<a href="girdIllusion.jpg">anyObject | <a href="girdIllusion.jpg">ringsFalling | <a href="girdIllusion.jpg">sticks | 
- <a href="girdIllusion.jpg">vasarely3D <br> 
+ <a href="anyObject.jpg">anyObject</a>| <a href="ringsFalling.jpg">ringsFalling</a> | <a href="sticks.jpg">sticks</a> | 
+ <a href="vasarely3D.jpg">vasarely3D</a> <br> 
 Week 13. Projects: <br>
-<a href="girdIllusion.jpg">symmography0 | <a href="girdIllusion.jpg">symmographyDoddy | <a href="girdIllusion.jpg">inspired_Art <br>
+ <a href="symmography0.jpg">symmography0</a> | <a href="symmographyDoddy.jpg">symmographyDoddy</a> | <a href="inspired_Art.jpg">inspired_Art<a><br>
