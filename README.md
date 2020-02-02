@@ -29,10 +29,12 @@ References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visua
  <a href="girdIllusion.jpg">spiral</a> | <a href="waves.jpg">waves2</a> | <a href="opLines.jpg">opLines</a> | 
   <a href="circleVasarelyBlackWhite.jpg">circleVasarelyBlackWhite</a> <br>
   Week 8. Moving things. Mouse <br>
-<a href="girdIllusion.jpg">raysMove | <a href="girdIllusion.jpg">agnesMove | <a href="girdIllusion.jpg">spots | 
- <a href="girdIllusion.jpg">scanCircleRad | <a href="girdIllusion.jpg">mondrianMovie | <br>
+ <a href="raysMove.jpg">raysMove</a> | <a href="agnesMove.jpg">agnesMove</a> | <a href="spots.jpg">spots</a> | 
+ <a href="scanCircleRad.jpg">scanCircleRad</a> | <a href="mondrianMovie.jpg">mondrianMovie</a> | <br>
   Week 9. Translate. Rotate: <br>
-<a href="girdIllusion.jpg">translation | <a href="girdIllusion.jpg">rotateSquare | <a href="girdIllusion.jpg">contestSquares<a href="girdIllusion.jpg">Rotate | <a href="g<a href="girdIllusion.jpg">irdIllusion.jpg"<a href="girdIllusion.jpg">>scaleCircle | <br>
+ <a href="translation.jpg">translation</a> | <a href="rotateSquare.jpg">rotateSquare</a> | 
+ <a href="contestSquares.jpg">contestSquares</a> | <a href="Rotate.jpg">Rotate</a> | 
+ <a href="scaleCircle.jpg">scaleCircle</a>  <br>
   Week 10. Fractals: <br>
 <a href="girdIllusion.jpg">concentricShape | <a href="girdIllusion.jpg">simpleFractal | <a href="girdIllusion.jpg">recursiveCircles | <a href="girdIllusion.jpg">recursiveSquares | <a href="girdIllusion.jpg">rightTriangle | <a href="girdIllusion.jpg">sierpinskiGasket <a href="girdIllusion.jpg">| <a href="girdIllusion.jpg">sierpinskiCarpet <br>
   Week 11. Perspective: <br>
