@@ -1,6 +1,6 @@
 # LearnProcessing. Introduction in Processing (https://processing.org) with Art Examples 
-References: Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists"
-Authors: Mihaela Malita and Ethel Shuster - 2020
+References: Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists" <br>
+Authors: Mihaela Malita and Ethel Shuster - 2020 <br>
  Week 1. Start Processing:
 page1_1 | page1-2 | cross | blueRect | flagRomania | flagColombia | linesHorizontalScale | jail | redCrossScale | squareCenterScale  
   Week 2. Random. Shapes:
