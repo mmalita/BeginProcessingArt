@@ -1,8 +1,8 @@
-# LearnProcessing. Introduction in Processing (https://processing.org) with Art Examples 
+# LearnProcessing. Introduction in <a href="https://processing.org">Processing</a> with Art Examples 
 References: Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists" <br>
 Authors: Mihaela Malita and Ethel Shuster - 2020 <br>
  Week 1. Start Processing: <br>
-page1_1 | page1-2 | cross | blueRect | flagRomania | flagColombia | linesHorizontalScale | jail | redCrossScale | squareCenterScale  
+<a href="page1_1.jpg">page1_1</a> | page1-2 | cross | blueRect | flagRomania | flagColombia | linesHorizontalScale | jail | redCrossScale | squareCenterScale  
   Week 2. Random. Shapes: <br>
 snowFlake | target | Albers | randColor2 | overlap |triangleCircle | rhombus | border |mondrian |ellipse <br>
   Week 3. Loops: <br>
