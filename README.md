@@ -1,7 +1,8 @@
-<h3>Introduction in <a href="https://processing.org">Processing</a> with Art Examples</h3>
-References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists"</i> <br>
+<h3>Begin <a href="https://processing.org">Processing</a> with Art Examples</h3>
+References: <i>Casey Reas, Ben Fry."Processing: A Programming Handbook for Visual Designers and Artists"</i> and
+<a href="https://github.com/shiffman/LearningProcessing">Daniel Shiffman - Github</a> <br>
 <h4>Authors: <a href="https://ypologist.com/mmalita17/HOMEPAGE/culProcessing/index.html">Mihaela Malita</a> and Ethel Shuster - 2020 </h4>
- Week 1. Start Processing: <br>
+ Week 1. Hello Processing: <br>
 <a href="page1_1.jpg">page1_1</a> | <a href="page1_2.jpg">page1-2</a>  | <a href="cross.jpg">cross</a>  | 
 <a href="blueRect.jpg">blueRect</a>  | 
  <a href="flagRomania.jpg">flagRomania</a>  | <a href="flagColombia.jpg">flagColombia</a>  | 
