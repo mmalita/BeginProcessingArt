@@ -1,0 +1,47 @@
+// File: week12/vasarely3D.pde Author: Mihaela Malita
+int n = 5; // cubes per row
+cell [][] C = new cell [n][n];
+void setup() {
+ size(300,300,P3D); 
+ d = int(width/n);  r = int(d/2);
+ for (int i = 0 ; i < n ; i++){
+     for (int j = 0; j < n ; j++) {
+             int x = r + i * d; 
+             int  y = r  + j * d;
+             C[i][j] = new cell(x,y,r); 
+       }
+    } 
+  frameRate(7);
+}
+int d,r;  // diameter/size of square, radius  
+void draw(){
+   background(0);  
+   lights(); //ambient(#ff2233);
+   for (int i = 0 ; i < n ; i++){
+     for (int j = 0; j < n ; j++) {
+           C[i][j].display();
+     }
+   } 
+ //saveFrame("vasarely3-####");
+}//draw
+class cell {
+  int x; int y; int z; //(x,y,z) center of the sphere
+  color c; float angle;
+  cell (int xx, int yy, int rr) {
+    x = xx; y = yy; z = 0; angle =0;
+    r = rr; c = color(random(256),random(256),random(256)); 
+  }
+  void display() {
+    rectMode(CENTER); noStroke();
+    rect(x,y,2 * r, 2*r);
+    pushMatrix();
+    translate(x,y,z);
+    rotateX(angle); rotateY(angle);  
+    rotateZ(angle); angle = angle + 0.1;
+    fill(c); 
+    box(r);
+    //sphere(r-10);
+    popMatrix();
+  }
+}
+  
