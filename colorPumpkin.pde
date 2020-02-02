@@ -17,5 +17,5 @@ void setup(){
         set(x,y,cc);
     }//for(y)    
   }//for(x)
-  saveFrame("pumpkinBlue.jpg");
+  saveFrame("colorPumpkin.jpg");
 }//setup
